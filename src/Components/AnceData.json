@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.fixderma.com/cdn/shop/files/salyzap_face_wash_1.webp?v=1752725504",
+    "name": "Salyzap Body Wash",
+    "rating": 4.5,
+    "reviews": 359,
+    "originalPrice": 450,
+    "discountedPrice": 425,
+    "buttonText": "QUICK ADD"
+  },
+  {
+    "id": 2,
+    "image": "https://www.fixderma.com/cdn/shop/files/Anti_acne_Spray_11.webp?v=1729920858",
+    "name": "Salyzap Spray For Body Acne",
+    "rating": 4.5,
+    "reviews": 355,
+    "originalPrice": 350,
+    "discountedPrice": 325,
+    "buttonText": "QUICK ADD"
+  },
+  {
+    "id": 3,
+    "image": "https://www.fixderma.com/cdn/shop/files/salyzap_face_wash_1.webp?v=1752725504",
+    "name": "Salyzap-AZ Body Spray",
+    "rating": 4.5,
+    "reviews": 29,
+    "originalPrice": 845,
+    "discountedPrice": 845,
+    "buttonText": "ADD TO CART"
+  },
+  {
+    "id": 4,
+    "image": "https://www.fixderma.com/cdn/shop/files/Anti_acne_Spray_11.webp?v=1729920858",
+    "name": "Salyzap Daily Face Cleanser",
+    "rating": 4.5,
+    "reviews": 147,
+    "originalPrice": 260,
+    "discountedPrice": 249,
+    "buttonText": "QUICK ADD"
+  }
+]

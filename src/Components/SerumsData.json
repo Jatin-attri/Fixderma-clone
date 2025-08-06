@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.fixderma.com/cdn/shop/files/pigment-correcting-face-serum-1.webp?v=1735540823",
+    "name": "Pore Minimizer Face and  Serum",
+    "rating": 4.5,
+    "reviews": 472,
+    "originalPrice": 599,
+    "discountedPrice": 569,
+    "buttonText": "ADD TO CART",
+    "isSale": true
+  },
+  {
+    "id": 2,
+    "image": "https://www.fixderma.com/cdn/shop/files/Skarfix_TX_Serum_front.webp?v=1739441381",
+    "name": "Skarfix-TX De-Pigmentation & Brightening Face Serum",
+    "rating": 4.5,
+    "reviews": 194,
+    "originalPrice": 675,
+    "discountedPrice": 639,
+    "buttonText": "ADD TO CART",
+    "isSale": true
+  },
+  {
+    "id": 3,
+    "image": "https://www.fixderma.com/cdn/shop/files/pigment-correcting-face-serum-1.webp?v=1735540823",
+    "name": "Pigment Correcting Face Serum",
+    "rating": 4.5,
+    "reviews": 176,
+    "originalPrice": 599,
+    "discountedPrice": 569,
+    "buttonText": "ADD TO CART",
+    "isSale": true
+  },
+  {
+    "id": 4,
+    "image": "https://www.fixderma.com/cdn/shop/files/Skarfix_TX_Serum_front.webp?v=1739441381",
+    "name": "Acne Defence Face Serum",
+    "rating": 4.5,
+    "reviews": 83,
+    "originalPrice": 599,
+    "discountedPrice": 539,
+    "buttonText": "ADD TO CART",
+    "isSale": true
+  }
+]

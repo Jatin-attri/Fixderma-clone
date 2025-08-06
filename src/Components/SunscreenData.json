@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.fixderma.com/cdn/shop/files/Shadow_50_gel_75g.webp?v=1739536607",
+    "name": "Shadow SPF 50+ Gel Sunscreen",
+    "rating": 4.6,
+    "reviews": 825,
+    "originalPrice": 350,
+    "discountedPrice": 329,
+    "buttonText": "QUICK ADD"
+  },
+  {
+    "id": 2,
+    "image": "https://www.fixderma.com/cdn/shop/files/Spf_50_cream_front.webp?v=1732278864",
+    "name": "Shadow Sunscreen SPF 50 + Cream",
+    "rating": 4.8,
+    "reviews": 233,
+    "originalPrice": 325,
+    "discountedPrice": 309,
+    "buttonText": "QUICK ADD"
+  },
+  {
+    "id": 3,
+    "image": "https://www.fixderma.com/cdn/shop/files/Shadow_50_gel_75g.webp?v=1739536607",
+    "name": "Shadow Brightening Sunscreen Cream SPF 50",
+    "rating": 4.9,
+    "reviews": 22,
+    "originalPrice": 500,
+    "discountedPrice": 475,
+    "buttonText": "ADD TO CART"
+  },
+   {
+    "id": 4,
+    "image": "https://www.fixderma.com/cdn/shop/files/Spf_50_cream_front.webp?v=1732278864",
+    "name": "Shadow Brightening Sunscreen Cream SPF 50",
+    "rating": 4.9,
+    "reviews": 22,
+    "originalPrice": 500,
+    "discountedPrice": 475,
+    "buttonText": "ADD TO CART"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.fixderma.com/cdn/shop/files/durave-acne-control-oil-free-face-moisturizer-1.webp?v=1724229088",
+    "name": "Salyzap Body Wash",
+    "reviews": 359,
+    "rating": 4.2,
+    "originalPrice": 450,
+    "discountedPrice": 425,
+    "buttonText": "QUICK ADD",
+    "isSale": true
+  },
+  {
+    "id": 2,
+    "image": "https://www.fixderma.com/cdn/shop/files/durave-radiance-oil-free-face-moisturizer-1.webp?v=1725864485",
+    "name": "Durave Acne Control & Oil Free Face Moisturizer",
+    "reviews": 138,
+    "rating": 4.1,
+    "originalPrice": 295,
+    "discountedPrice": 295,
+    "buttonText": "ADD TO CART",
+    "isSale": true
+  },
+  {
+    "id": 3,
+    "image": "https://www.fixderma.com/cdn/shop/files/durave-moisture-protect-face-moisturizer-1_4d4d2569-8a5b-4b8b-85e5-0de5422a2b0f.webp?v=1724234882",
+    "name": "Durave Radiance, Oil Free & Brightening Face Moisturizer",
+    "reviews": 125,
+    "rating": 4.4,
+    "originalPrice": 310,
+    "discountedPrice": 310,
+    "buttonText": "ADD TO CART",
+    "isSale": true
+  },
+  {
+    "id": 4,
+    "image": "https://www.fixderma.com/cdn/shop/files/durave-barrier-repair-face-moisturizer-1.webp?v=1724228717",
+    "name": "Durave Moisture Protect Deep Hydration Face Moisturizer",
+    "reviews": 45,
+    "rating": 4.5,
+    "originalPrice": 295,
+    "discountedPrice": 295,
+    "buttonText": "ADD TO CART",
+    "isSale": true
+  }
+]

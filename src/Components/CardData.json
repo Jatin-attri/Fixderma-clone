@@ -1,0 +1,235 @@
+[
+    {
+      "subcategoryName": "Shadow Sunscreen",
+      "products": [
+        {
+          "id": 1,
+          "image": "https://www.fixderma.com/cdn/shop/files/Shadow_50_gel_75g.webp?v=1739536607",
+          "name": "Shadow SPF 50+ Gel Sunscreen",
+          "rating": 4.6,
+          "reviews": 825,
+          "originalPrice": 350,
+          "discountedPrice": 329,
+          "buttonText": "QUICK ADD"
+        },
+        {
+          "id": 2,
+          "image": "https://www.fixderma.com/cdn/shop/files/Spf_50_cream_front.webp?v=1732278864",
+          "name": "Shadow Sunscreen SPF 50 + Cream",
+          "rating": 4.8,
+          "reviews": 233,
+          "originalPrice": 325,
+          "discountedPrice": 309,
+          "buttonText": "QUICK ADD"
+        },
+        {
+          "id": 3,
+          "image": "https://www.fixderma.com/cdn/shop/files/Shadow_50_gel_75g.webp?v=1739536607",
+          "name": "Shadow Brightening Sunscreen Cream SPF 50",
+          "rating": 4.9,
+          "reviews": 22,
+          "originalPrice": 500,
+          "discountedPrice": 475,
+          "buttonText": "ADD TO CART"
+        },
+        {
+          "id": 4,
+          "image": "https://www.fixderma.com/cdn/shop/files/Spf_50_cream_front.webp?v=1732278864",
+          "name": "Shadow Brightening Sunscreen Cream SPF 50",
+          "rating": 4.9,
+          "reviews": 22,
+          "originalPrice": 500,
+          "discountedPrice": 475,
+          "buttonText": "ADD TO CART"
+        }
+      ]
+    },
+    {
+      "subcategoryName": "Pigmentation",
+      "products": [
+        {
+          "id": 1,
+          "image": "https://www.fixderma.com/cdn/shop/files/pigment-correcting-face-serum-1.webp?v=1735540823",
+          "name": "Pigment Correcting Face Serum",
+          "rating": 4.9,
+          "reviews": 176,
+          "originalPrice": 599,
+          "discountedPrice": 569,
+          "buttonText": "ADD TO CART"
+        },
+        {
+          "id": 2,
+          "image": "https://www.fixderma.com/cdn/shop/files/Skarfix_TX_Serum_front.webp?v=1739441381",
+          "name": "Skarfix-TX De-Pigmentation & Brightening Face Serum",
+          "rating": 4.9,
+          "reviews": 194,
+          "originalPrice": 675,
+          "discountedPrice": 639,
+          "buttonText": "ADD TO CART"
+        },
+        {
+          "id": 3,
+          "image": "https://www.fixderma.com/cdn/shop/files/Skarfix_TX_Serum_front.webp?v=1739441381",
+          "name": "Anti Pigmentation & Brightening Skarfix-TX CSMS",
+          "rating": 4.8,
+          "reviews": 1978,
+          "originalPrice": 1745,
+          "discountedPrice": 1449,
+          "buttonText": "ADD TO CART"
+        },
+        {
+          "id": 4,
+          "image": "https://www.fixderma.com/cdn/shop/files/pigment-correcting-face-serum-1.webp?v=1735540823",
+          "name": "Complete Skincare Kit For Hyperpigmentation",
+          "rating": 4.8,
+          "reviews": 6,
+          "originalPrice": 2020,
+          "discountedPrice": 1715,
+          "buttonText": "ADD TO CART"
+        }
+      ]
+    },
+    {
+      "subcategoryName": "Acne",
+      "products": [
+        {
+          "id": 1,
+          "image": "https://www.fixderma.com/cdn/shop/files/salyzap_face_wash_1.webp?v=1752725504",
+          "name": "Salyzap Body Wash",
+          "rating": 4.5,
+          "reviews": 359,
+          "originalPrice": 450,
+          "discountedPrice": 425,
+          "buttonText": "QUICK ADD"
+        },
+        {
+          "id": 2,
+          "image": "https://www.fixderma.com/cdn/shop/files/Anti_acne_Spray_11.webp?v=1729920858",
+          "name": "Salyzap Spray For Body Acne",
+          "rating": 4.5,
+          "reviews": 355,
+          "originalPrice": 350,
+          "discountedPrice": 325,
+          "buttonText": "QUICK ADD"
+        },
+        {
+          "id": 3,
+          "image": "https://www.fixderma.com/cdn/shop/files/salyzap_face_wash_1.webp?v=1752725504",
+          "name": "Salyzap-AZ Body Spray",
+          "rating": 4.5,
+          "reviews": 29,
+          "originalPrice": 845,
+          "discountedPrice": 845,
+          "buttonText": "ADD TO CART"
+        },
+        {
+          "id": 4,
+          "image": "https://www.fixderma.com/cdn/shop/files/Anti_acne_Spray_11.webp?v=1729920858",
+          "name": "Salyzap Daily Face Cleanser",
+          "rating": 4.5,
+          "reviews": 147,
+          "originalPrice": 260,
+          "discountedPrice": 249,
+          "buttonText": "QUICK ADD"
+        }
+      ]
+    },
+    {
+      "subcategoryName": "Serums",
+      "products": [
+        {
+          "id": 1,
+          "image": "https://www.fixderma.com/cdn/shop/files/pigment-correcting-face-serum-1.webp?v=1735540823",
+          "name": "Pore Minimizer Face and  Serum",
+          "rating": 4.5,
+          "reviews": 472,
+          "originalPrice": 599,
+          "discountedPrice": 569,
+          "buttonText": "ADD TO CART",
+          "isSale": true
+        },
+        {
+          "id": 2,
+          "image": "https://www.fixderma.com/cdn/shop/files/Skarfix_TX_Serum_front.webp?v=1739441381",
+          "name": "Skarfix-TX De-Pigmentation & Brightening Face Serum",
+          "rating": 4.5,
+          "reviews": 194,
+          "originalPrice": 675,
+          "discountedPrice": 639,
+          "buttonText": "ADD TO CART",
+          "isSale": true
+        },
+        {
+          "id": 3,
+          "image": "https://www.fixderma.com/cdn/shop/files/pigment-correcting-face-serum-1.webp?v=1735540823",
+          "name": "Pigment Correcting Face Serum",
+          "rating": 4.5,
+          "reviews": 176,
+          "originalPrice": 599,
+          "discountedPrice": 569,
+          "buttonText": "ADD TO CART",
+          "isSale": true
+        },
+        {
+          "id": 4,
+          "image": "https://www.fixderma.com/cdn/shop/files/Skarfix_TX_Serum_front.webp?v=1739441381",
+          "name": "Acne Defence Face Serum",
+          "rating": 4.5,
+          "reviews": 83,
+          "originalPrice": 599,
+          "discountedPrice": 539,
+          "buttonText": "ADD TO CART",
+          "isSale": true
+        }
+      ]
+    },
+    {
+      "subcategoryName": "Moisturizers & Body Lotion",
+      "products": [
+        {
+          "id": 1,
+          "image": "https://www.fixderma.com/cdn/shop/files/durave-acne-control-oil-free-face-moisturizer-1.webp?v=1724229088",
+          "name": "Salyzap Body Wash",
+          "reviews": 359,
+          "rating": 4.2,
+          "originalPrice": 450,
+          "discountedPrice": 425,
+          "buttonText": "QUICK ADD",
+          "isSale": true
+        },
+        {
+          "id": 2,
+          "image": "https://www.fixderma.com/cdn/shop/files/durave-radiance-oil-free-face-moisturizer-1.webp?v=1725864485",
+          "name": "Durave Acne Control & Oil Free Face Moisturizer",
+          "reviews": 138,
+          "rating": 4.1,
+          "originalPrice": 295,
+          "discountedPrice": 295,
+          "buttonText": "ADD TO CART",
+          "isSale": true
+        },
+        {
+          "id": 3,
+          "image": "https://www.fixderma.com/cdn/shop/files/durave-moisture-protect-face-moisturizer-1_4d4d2569-8a5b-4b8b-85e5-0de5422a2b0f.webp?v=1724234882",
+          "name": "Durave Radiance, Oil Free & Brightening Face Moisturizer",
+          "reviews": 125,
+          "rating": 4.4,
+          "originalPrice": 310,
+          "discountedPrice": 310,
+          "buttonText": "ADD TO CART",
+          "isSale": true
+        },
+        {
+          "id": 4,
+          "image": "https://www.fixderma.com/cdn/shop/files/durave-barrier-repair-face-moisturizer-1.webp?v=1724228717",
+          "name": "Durave Moisture Protect Deep Hydration Face Moisturizer",
+          "reviews": 45,
+          "rating": 4.5,
+          "originalPrice": 295,
+          "discountedPrice": 295,
+          "buttonText": "ADD TO CART",
+          "isSale": true
+        }
+      ]
+    }
+  ]

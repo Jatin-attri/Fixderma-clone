@@ -1,0 +1,92 @@
+[
+  {
+    "subcategoryName": "Skincare Essentials",
+    "products": [
+      {
+        "id": 1,
+        "image": "https://www.fixderma.com/cdn/shop/files/skarfix-plus-brightening-face-serum-1.webp?v=1752224725",
+        "name": "Skarfix-Plus Brightening Face Serum",
+        "rating": 5.0,
+        "reviews": 2,
+        "originalPrice": 499,
+        "discountedPrice": 499,
+        "buttonText": "ADD TO CART"
+      },
+      {
+        "id": 2,
+        "image": "https://www.fixderma.com/cdn/shop/files/shadow-a-gel-spf-50-sunscreen-1.webp?v=1748951679",
+        "name": "Shadow A Gel SPF 50+ Sunscreen",
+        "rating": 4.8,
+        "reviews": 8,
+        "originalPrice": 550,
+        "discountedPrice": 525,
+        "buttonText": "ADD TO CART"
+      },
+      {
+        "id": 3,
+        "image": "https://www.fixderma.com/cdn/shop/files/shadow-spf-50-gel-kids-1.webp?v=1746619267",
+        "name": "Shadow SPF 50 Gel Kids",
+        "rating": 5.0,
+        "reviews": 3,
+        "originalPrice": 600,
+        "discountedPrice": 570,
+        "buttonText": "ADD TO CART"
+      },
+      {
+        "id": 4,
+        "image": "https://www.fixderma.com/cdn/shop/files/shadow-brightening-sunscreen-cream-spf-50-1.webp?v=1742535993",
+        "name": "Shadow Brightening Sunscreen Cream SPF 50",
+        "rating": 4.9,
+        "reviews": 22,
+        "originalPrice": 525,
+        "discountedPrice": 475,
+        "buttonText": "ADD TO CART"
+      }
+    ]
+  },
+  {
+    "subcategoryName": "Trending Products",
+    "products": [
+      {
+        "id": 5,
+        "image": "https://www.fixderma.com/cdn/shop/files/Nigrifix_New_PDP_50gm.webp?v=1731498835",
+        "name": "Nigrifix Cream 50g",
+        "rating": 4.9,
+        "reviews": 1140,
+        "originalPrice": 450,
+        "discountedPrice": 429,
+        "buttonText": "ADD TO CART"
+      },
+      {
+        "id": 6,
+        "image": "https://www.fixderma.com/cdn/shop/files/skarfix-tx-cream-15g.webp?v=1744351883",
+        "name": "Skarfix-TX Cream",
+        "rating": 4.8,
+        "reviews": 810,
+        "originalPrice": 475,
+        "discountedPrice": 445,
+        "buttonText": "QUICK ADD"
+      },
+      {
+        "id": 7,
+        "image": "https://www.fixderma.com/cdn/shop/files/foobetik-foot-cream-100g.webp?v=1733152022",
+        "name": "Foobetik Foot Cream",
+        "rating": 4.8,
+        "reviews": 676,
+        "originalPrice": 550,
+        "discountedPrice": 499,
+        "buttonText": "ADD TO CART"
+      },
+      {
+        "id": 8,
+        "image": "https://www.fixderma.com/cdn/shop/files/nigrifix-underarm-lightening-roll-on-ocean.webp?v=1743757214",
+        "name": "Nigrifix Underarm Lightening Roll On",
+        "rating": 4.6,
+        "reviews": 404,
+        "originalPrice": 399,
+        "discountedPrice": 379,
+        "buttonText": "QUICK ADD"
+      }
+    ]
+  }
+]

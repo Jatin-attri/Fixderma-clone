@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.fixderma.com/cdn/shop/files/pigment-correcting-face-serum-1.webp?v=1735540823",
+    "name": "Pigment Correcting Face Serum",
+    "rating": 4.9,
+    "reviews": 176,
+    "originalPrice": 599,
+    "discountedPrice": 569,
+    "buttonText": "ADD TO CART"
+  },
+  {
+    "id": 2,
+    "image": "https://www.fixderma.com/cdn/shop/files/Skarfix_TX_Serum_front.webp?v=1739441381",
+    "name": "Skarfix-TX De-Pigmentation & Brightening Face Serum",
+    "rating": 4.9,
+    "reviews": 194,
+    "originalPrice": 675,
+    "discountedPrice": 639,
+    "buttonText": "ADD TO CART"
+  },
+  {
+    "id": 3,
+    "image": "https://www.fixderma.com/cdn/shop/files/Skarfix_TX_Serum_front.webp?v=1739441381",
+    "name": "Anti Pigmentation & Brightening Skarfix-TX CSMS",
+    "rating": 4.8,
+    "reviews": 1978,
+    "originalPrice": 1745,
+    "discountedPrice": 1449,
+    "buttonText": "ADD TO CART"
+  },
+  {
+    "id": 4,
+    "image": "https://www.fixderma.com/cdn/shop/files/pigment-correcting-face-serum-1.webp?v=1735540823",
+    "name": "Complete Skincare Kit For Hyperpigmentation",
+    "rating": 4.8,
+    "reviews": 6,
+    "originalPrice": 2020,
+    "discountedPrice": 1715,
+    "buttonText": "ADD TO CART"
+  }
+]

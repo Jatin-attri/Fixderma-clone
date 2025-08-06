@@ -1,24 +1,55 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from './Components/Header';
+import Navbar from './Components/Navbar';
+import Slider from './Components/Slider';
+import Concern from './Components/Concern';
+import Sunscreen from './Components/Sunscreen';
+
+import Result from './Components/Result';
+import Reels from './Components/Reels';
+import Ingredients from './Components/Ingredients';
+import Certifications from './Components/Certifications';
+import Essentials from './Components/Essentials';
+import EssentialsData from './Components/EssentialsData.json'
+import Card from "./Components/Card"
+import CardData from "./Components/CardData.json"
+
+
+
+
+
 
 function App() {
+ 
+
+
+  console.log(EssentialsData)
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <>
+    
+
+
+
+    <header>
+      <Header/>
+      <Navbar></Navbar>
+    </header>
+    <Slider className="Slider"></Slider>
+    <div>
+      {EssentialsData.map((data, index)=>(<Essentials EssentialsData={data}/>))}
     </div>
+{CardData.map((data, index)=>(<Card CardData={data}/>))}
+
+
+
+    
+      
+    
+    
+
+
+    </>
   );
 }
 

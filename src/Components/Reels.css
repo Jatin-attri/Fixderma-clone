@@ -1,0 +1,39 @@
+.social{
+    font-size: 24px;
+    margin: 24px 0;
+}
+.reelsimage{
+    width: 208px;
+    height: 406px;
+}
+.reelscontainer{
+    padding: 0;
+}
+#carouselExampleInterval{
+    padding-right: 10px;
+    border-radius: 15%;
+}
+.reelsscroller{
+    width: 100%;
+}
+.carousel-inner img {
+  width: 100%;
+  height: auto;
+  object-fit: cover; /* Optional: maintains aspect ratio and fills */
+  border-radius: 12px; /* Optional: makes it look modern */
+}
+
+.carousel-inner {
+  max-width: 100%;
+  overflow: hidden;
+}
+.carousel-inner {
+  max-height: 500px;
+}
+
+.carousel-item video,
+.carousel-item img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
